@@ -1,6 +1,38 @@
 [
   {
     "trend_arrow": "SINGLE_DOWN", 
+    "display_time": "2017-04-30T20:54:23-07:00", 
+    "noise": 2, 
+    "direction": "SingleDown", 
+    "system_time": "2017-05-01T04:54:19-07:00", 
+    "sgv": 84, 
+    "dateString": "2017-04-30T20:54:23-07:00", 
+    "device": "openaps://indy-ex2/cgm", 
+    "unfiltered": 100112, 
+    "rssi": 447, 
+    "date": 1493610863000.0, 
+    "filtered": 119296, 
+    "type": "sgv", 
+    "glucose": 84
+  }, 
+  {
+    "trend_arrow": "SINGLE_DOWN", 
+    "display_time": "2017-04-30T20:49:23-07:00", 
+    "noise": 2, 
+    "direction": "SingleDown", 
+    "system_time": "2017-05-01T04:49:18-07:00", 
+    "sgv": 95, 
+    "dateString": "2017-04-30T20:49:23-07:00", 
+    "device": "openaps://indy-ex2/cgm", 
+    "unfiltered": 109968, 
+    "rssi": 177, 
+    "date": 1493610563000.0, 
+    "filtered": 130000, 
+    "type": "sgv", 
+    "glucose": 95
+  }, 
+  {
+    "trend_arrow": "SINGLE_DOWN", 
     "display_time": "2017-04-30T20:39:23-07:00", 
     "noise": 1, 
     "direction": "SingleDown", 
@@ -46,37 +78,5 @@
     "filtered": 181504, 
     "type": "sgv", 
     "glucose": 125
-  }, 
-  {
-    "trend_arrow": "SINGLE_DOWN", 
-    "display_time": "2017-04-30T20:24:23-07:00", 
-    "noise": 1, 
-    "direction": "SingleDown", 
-    "system_time": "2017-05-01T04:24:18-07:00", 
-    "sgv": 141, 
-    "dateString": "2017-04-30T20:24:23-07:00", 
-    "device": "openaps://indy-ex2/cgm", 
-    "unfiltered": 174048, 
-    "rssi": 187, 
-    "date": 1493609063000.0, 
-    "filtered": 193120, 
-    "type": "sgv", 
-    "glucose": 141
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "display_time": "2017-04-30T20:19:23-07:00", 
-    "noise": 1, 
-    "direction": "FortyFiveDown", 
-    "system_time": "2017-05-01T04:19:18-07:00", 
-    "sgv": 155, 
-    "dateString": "2017-04-30T20:19:23-07:00", 
-    "device": "openaps://indy-ex2/cgm", 
-    "unfiltered": 187712, 
-    "rssi": 201, 
-    "date": 1493608763000.0, 
-    "filtered": 202048, 
-    "type": "sgv", 
-    "glucose": 155
   }
 ]
